@@ -1,0 +1,10 @@
+name: KitPvP
+author: Rajp
+version: 1.0
+main: cz.rajp.kitbattle.Main
+commands:
+  default:
+  setspawn:
+  spawn123456789:
+  tank:
+  coins:
